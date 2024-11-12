@@ -1,4 +1,4 @@
-# yolov8_colab\
+# yolov8_colab
 ```
 # 필요한 패키지 설치
 !pip install ultralytics opencv-python-headless yt-dlp
